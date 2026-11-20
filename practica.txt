@@ -1,0 +1,7 @@
+Mi primera práctica con Git y GitHub.
+
+Nombre: Tatiana Valero
+Curso: 
+Fecha: 19/11/2026
+
+Estoy aprendiendo a usar control de versiones.
