@@ -1,4 +1,4 @@
-\# Taller Git y GitHub
+# Taller Git y GitHub
 
 
 
@@ -6,25 +6,25 @@ Este repositorio fue creado como práctica de clase.
 
 
 
-\## Integrante
+## Integrante
 
 
 
-\- Tatiana Valero
+- Tatiana Valero
 
 
 
-\## Comandos aprendidos
+## Comandos aprendidos
 
 
 
-\- git clone
+- git clone
 
-\- git status
+- git status
 
-\- git add
+- git add
 
-\- git commit
+- git commit
 
-\- git push
+- git push
 
